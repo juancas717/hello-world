@@ -4,3 +4,5 @@ This is my first program ever
  
  updates
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+Fun Fact: Did you know that before crowbars were ivented, crows just drank at home?
